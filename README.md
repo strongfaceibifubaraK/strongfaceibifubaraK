@@ -15,7 +15,7 @@ I am a cybersecurity student at NIIT port harcourt, passionate about offensive a
 ## Project
 | Project | Description | Repository |
 | ------- | ----------- | ---------- |
-| Penetration Testing | |  |
+| Penetration Testing | |  https://github.com/strongfaceibifubaraK/penetration-testing-project |
 | Log Analysis | Analyzed IIS and Windows Event Logs to identify attacks |  |
 | Malware Analysis | |  |
 | Digital Forensics | |  |
