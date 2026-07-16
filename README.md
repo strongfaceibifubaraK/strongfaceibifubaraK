@@ -19,7 +19,7 @@ I am a cybersecurity student at NIIT port harcourt, passionate about offensive a
 | Log Analysis | Analyzed IIS and Windows Event Logs to identify attacks | https://github.com/strongfaceibifubaraK/log-analysis-project |
 | Malware Analysis | | https://github.com/strongfaceibifubaraK/malware-analysis-project |
 | Digital Forensics | | https://github.com/strongfaceibifubaraK/digital-forensics-project |
-| OSINT | Conducted an OSINT investigation on a target organization |  | https://github.com/strongfaceibifubaraK/osint-project/blob/main/README.md |
+| OSINT | Conducted an OSINT investigation on a target organization | | https://github.com/strongfaceibifubaraK/osint-project |
 | Threat Hunting | | Coming soon |
 | Social Engineering | | Coming soon |
 | Vulnerability Assessment| | https://github.com/strongfaceibifubaraK/vulnerability-assessment-project |
