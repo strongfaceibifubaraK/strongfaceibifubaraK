@@ -53,5 +53,5 @@ I am a cybersecurity student at NIIT port harcourt, passionate about offensive a
 - NIIT Portharcourt: Cybersecurity program
 
 ## Contact
-- Email: 
-- Phone:
+- Email: strongfaceibifubara@gmail.com 
+- Phone: 08068821788
