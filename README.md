@@ -22,7 +22,7 @@ I am a cybersecurity student at NIIT port harcourt, passionate about offensive a
 | OSINT | Conducted an OSINT investigation on a target organization|  | https://github.com/strongfaceibifubaraK/osint-project |
 | Threat Hunting | | Coming soon |
 | Social Engineering | | Coming soon |
-| Vulnerability Assessment| |  |
+| Vulnerability Assessment| | https://github.com/strongfaceibifubaraK/vulnerability-assessment-project |
 | SOC Analysis | | Coming soon |
 ## Skills
 ### Operating Systems
